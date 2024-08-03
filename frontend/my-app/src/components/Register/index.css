@@ -1,0 +1,33 @@
+.register{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+   
+}
+.form-cont{
+    display:flex ;
+    flex-direction: column;
+  
+}
+.register-btn{
+    background-color: #000000;
+    border-width: 0px;
+    font-size: 15px;
+    color:#ffffff;
+    padding:10px 20px;
+    margin-top:10px;
+    font-family:"Roboto";
+}
+.user-input{
+    padding:10px 20px;
+    font-size: 15px;
+    font-family:"Roboto";
+    
+}
+.headig{
+    color:#000000;
+    font-size: 15px;
+    font-family:"Roboto";
+}

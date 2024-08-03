@@ -1,0 +1,35 @@
+.todo-head{
+    color:#000000;
+    font-size: 30px;
+    font-family:'Roboto';
+}
+.input-box{
+    color:#000000;
+    font-family:'Roboto';
+    border-bottom:2px solid ;
+    outline:none;
+    padding:10px ;
+    width:300px;
+}
+.add-btn{
+    color:#ffffff;
+    font-family: 'Roboto';
+    background-color: #000000;
+    padding:10px;
+    cursor: pointer;
+ 
+}
+.todo-list{
+    padding:0px;
+    margin-top:10px;
+    
+}
+
+.app{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+

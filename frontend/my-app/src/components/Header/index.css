@@ -1,0 +1,13 @@
+.logout-btn{
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #000000;
+    padding:10px 20px;
+    
+    
+}
+.header{
+    display: flex;
+    justify-content: flex-end;
+    width: 90%;
+}
