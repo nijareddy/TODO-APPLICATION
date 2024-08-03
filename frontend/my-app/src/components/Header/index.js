@@ -13,7 +13,7 @@ const Header = () => {
 
   return (
     <div className='header'>
-      <button className='logout-btn' onClick={handleLogout}>Logout</button>
+      <button className='logout-btn' onClick={handleLogout}>Logout1 </button>
     </div>
   );
 };
