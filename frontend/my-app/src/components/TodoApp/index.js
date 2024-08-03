@@ -115,7 +115,7 @@ const TodoApp = () => {
         <h1 className="todo-head">Todo List</h1>
         <form onSubmit={addTodo}>
           <div>
-            <input className="input-box" type="text" onChange={createTodo} value={task} placeholder='Add a Task' />
+            <input className="input-box" type="text" onChange={createTodo} value={task} placeholder='Add A Task' />
             <button className="add-btn" type="submit">
               Add
             </button>
